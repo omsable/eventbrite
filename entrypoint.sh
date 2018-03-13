@@ -1,4 +1,4 @@
 #!/bin/sh
 set -e
 
-/eventbrite-cli.py
+/eventbrite-cli.py "$@"
