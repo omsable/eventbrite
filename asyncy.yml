@@ -1,0 +1,13 @@
+commands:
+  attendees:
+    help: |
+      Returns a list of attendees
+    args:
+      - name: event-id
+        type: string
+
+volume: false
+
+env:
+  OAUTH_TOKEN:
+  EVENT_ID:
