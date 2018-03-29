@@ -5,8 +5,7 @@ commands:
     args:
       - name: event-id
         type: string
-
-volume: false
+        help: The event id to query, defaults to env: EVENT_ID
 
 env:
   OAUTH_TOKEN:
