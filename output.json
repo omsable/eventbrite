@@ -1,0 +1,75 @@
+[
+  {
+    "team": null,
+    "costs": {
+      "base_price": {
+        "display": "€0.00",
+        "currency": "EUR",
+        "value": 0,
+        "major_value": "0.00"
+      },
+      "eventbrite_fee": {
+        "display": "€0.00",
+        "currency": "EUR",
+        "value": 0,
+        "major_value": "0.00"
+      },
+      "gross": {
+        "display": "€0.00",
+        "currency": "EUR",
+        "value": 0,
+        "major_value": "0.00"
+      },
+      "payment_fee": {
+        "display": "€0.00",
+        "currency": "EUR",
+        "value": 0,
+        "major_value": "0.00"
+      },
+      "tax": {
+        "display": "€0.00",
+        "currency": "EUR",
+        "value": 0,
+        "major_value": "0.00"
+      }
+    },
+    "resource_uri": "https://www.eventbriteapi.com/v3/events/11111111/attendees/2222222/",
+    "id": "111111",
+    "changed": "2018-03-02T10:08:37Z",
+    "created": "2018-03-02T10:08:37Z",
+    "quantity": 1,
+    "profile": {
+      "first_name": "Joe",
+      "last_name": "Smoe",
+      "email": "joe.smoe@gmail.com",
+      "name": "Joe Smoe",
+      "addresses": {
+        "home": {},
+        "ship": {},
+        "work": {},
+        "bill": {}
+      }
+    },
+    "barcodes": [
+      {
+        "status": "unused",
+        "barcode": "111111",
+        "checkin_type": 0,
+        "created": "2018-03-02T10:08:37Z",
+        "changed": "2018-03-02T10:08:37Z"
+      }
+    ],
+    "answers": [],
+    "checked_in": false,
+    "cancelled": false,
+    "refunded": false,
+    "affiliate": null,
+    "guestlist_id": null,
+    "invited_by": null,
+    "status": "Attending",
+    "ticket_class_name": "RSVP",
+    "event_id": "111111",
+    "order_id": "11111",
+    "ticket_class_id": "11111"
+  }
+]
