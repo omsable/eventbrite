@@ -1,0 +1,14 @@
+commands:
+  attendees:
+    help: |
+      Returns a list of attendees
+    arguments:
+      event_id:
+        type: string
+        help: The event id to query, defaults to the EVENT_ID environment variable
+
+environment:
+  OAUTH_TOKEN:
+    type: string
+  EVENT_ID:
+    type: string
